@@ -9,13 +9,13 @@ If you have videos downloaded too, edit your theme.xml with the following to all
 
 
 	<video name="md_video">
-	<origin>0 .5</origin>
-	<pos>0.202 0.422</pos>
-	<maxSize>0.788 0.425</maxSize>
-	<delay>0.5</delay>
-	<showSnapshotNoVideo>false</showSnapshotNoVideo>
-	<showSnapshotDelay>false</showSnapshotDelay>
-	<zIndex>80</zIndex>
+		<origin>0 .5</origin>
+		<pos>0.202 0.422</pos>
+		<maxSize>0.788 0.425</maxSize>
+		<delay>0.5</delay>
+		<showSnapshotNoVideo>false</showSnapshotNoVideo>
+		<showSnapshotDelay>false</showSnapshotDelay>
+		<zIndex>80</zIndex>
 	</video>
 
 
