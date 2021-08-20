@@ -15,6 +15,6 @@ If you have videos downloaded too, edit your theme.xml with the following to all
 	<showSnapshotNoVideo>false</showSnapshotNoVideo>
 	<showSnapshotDelay>false</showSnapshotDelay>
 	<zIndex>80</zIndex>
-</video
+</video>
 
 You may need to alter the zIndex depending on your curren theme and obviously delay can be changed to anything else (I would not decrease the time, 0.5 is perfect for when youre flicking through games)
