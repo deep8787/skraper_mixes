@@ -8,6 +8,7 @@ This is just something I whipped up in my spare time, nothing too fancy. Im not 
 If you have videos downloaded too, edit your theme.xml with the following to allow the video to be played correctly on the screen:
 
 
+	<video name="md_video">
 	<origin>0 .5</origin>
 	<pos>0.202 0.422</pos>
 	<maxSize>0.788 0.425</maxSize>
@@ -15,6 +16,7 @@ If you have videos downloaded too, edit your theme.xml with the following to all
 	<showSnapshotNoVideo>false</showSnapshotNoVideo>
 	<showSnapshotDelay>false</showSnapshotDelay>
 	<zIndex>80</zIndex>
+	</video>
 
 
 You may need to alter the zIndex depending on your curren theme and obviously delay can be changed to anything else (I would not decrease the time, 0.5 is perfect for when youre flicking through games)
